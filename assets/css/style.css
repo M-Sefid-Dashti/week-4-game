@@ -1,0 +1,76 @@
+.panel1
+{
+    border-top: 10px solid white;
+    width: 200 ;
+    height: 300 ;
+    font-weight: bold;
+    font-size: large;
+    background-color: red;
+}
+.panel2
+{
+    border-top: 10px;
+    width: 600 ;
+    /*height: 300 ;*/
+    background-color: linen;
+}
+.panel3
+{
+    width: 300 px;
+    height: 150px;
+    background-color: green ;
+}
+.panel4
+{
+    width: 300 px;
+    height: 150px;
+    background-color: lightblue ;
+}
+.buttons
+{
+    width: 600 px;
+    height: 120px;
+    /*background-color: lightgray;*/
+}
+.panel5
+{
+    width: 600 px;
+    height: 100px;
+    /*background-color: white ;*/
+}
+
+.panel6
+{
+    width: 700 px;
+    height: 50px;
+    background-color: darkgreen ;
+}
+.panel7
+{
+    width: 300 px;
+    height: 150px;
+    background-color: darkgreen ;
+}
+.btn-lg
+{
+    font-style: bold;
+    font-size: 30px;
+}
+
+.redBtn
+{
+    background-color: red;
+}
+.blueBtn
+{
+    background-color: blue;
+}
+.yellowBtn
+{
+    background-color: yellow;
+    color: blue ;
+}
+.greenBtn
+{
+    background-color: green;
+}
